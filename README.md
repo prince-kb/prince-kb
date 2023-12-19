@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [DSA](https://github.com/prince-kb/All)
 
-- 🌱 I’m currently learning **DSA,C++ and a little bit of Python**
+- 🌱 I’m currently learning **DSA, C++, Python , HTML CSS JS and React**
 
-- 👯 I’m looking to collaborate on **VS Code**
+- 👯 I’m looking to collaborate on **VS Code also**
 
-- 🤝 I’m looking for help with **similar developers**
+- 🤝 I’m looking for help with **similar developers working on react projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prince-kb/All](https://github.com/prince-kb/All)
 
