@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **similar developers working on react projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prince-kb/All](https://github.com/prince-kb/All)
+- 👨‍💻 All of my projects are available at [https://github.com/prince-kb/All](https://github.com/prince-kb)
 
 - 💬 Ask me about **DSA projects and Basics of programming**
 
