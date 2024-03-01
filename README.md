@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prince-kb/All](https://github.com/prince-kb/All)
 
-- 💬 Ask me about **DSA projects and basics of programming**
+- 💬 Ask me about **DSA projects and Basics of programming**
 
 - 📫 How to reach me **princejaj67@gmail.com**
 
