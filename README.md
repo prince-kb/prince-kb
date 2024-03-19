@@ -5,13 +5,13 @@
 
 - 🔭 Currently working on [DSA](https://github.com/prince-kb/All)
 
-- 🌱 Currently learning **DSA, C++, Python , HTML CSS JS, React, Next **
+- 🌱 Currently learning **DSA, C++, Python , HTML CSS JS, React, Next**
   
 - 👯 Looking to collaborate on **Development projects**
 
 - 🤝 I’m looking for help with **similar developers working on react and next projects**
 
-- 🌱 Extras- Have basics of ** Adobe Premiere Pro and Adobe Photoshop **
+- 🌱 Extras- Have basics of **Adobe Premiere Pro and Adobe Photoshop**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prince-kb/All](https://github.com/prince-kb)
 
