@@ -3,17 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-kb&label=Profile%20views&color=0e75b6&style=flat" alt="prince-kb" /> </p>
 
-- 🔭 I’m currently working on [DSA](https://github.com/prince-kb/All)
+- 🔭 Currently working on [DSA](https://github.com/prince-kb/All)
 
-- 🌱 I’m currently learning **DSA, C++, Python , HTML CSS JS and React**
+- 🌱 Currently learning **DSA, C++, Python , HTML CSS JS, React, Next **
+  
+- 👯 Looking to collaborate on **Development projects**
 
-- 👯 I’m looking to collaborate on **VS Code also**
+- 🤝 I’m looking for help with **similar developers working on react and next projects**
 
-- 🤝 I’m looking for help with **similar developers working on react projects**
+- 🌱 Extras- Have basics of ** Adobe Premiere Pro and Adobe Photoshop **
 
 - 👨‍💻 All of my projects are available at [https://github.com/prince-kb/All](https://github.com/prince-kb)
 
-- 💬 Ask me about **DSA projects and Basics of programming**
+- 💬 Ask me about **Full Stack ,DSA and Basics of programming**
 
 - 📫 How to reach me **princejaj67@gmail.com**
 
