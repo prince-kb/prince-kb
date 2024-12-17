@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar Barnwal</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate Web Developer and programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-kb&label=Profile%20views&color=0e75b6&style=flat" alt="prince-kb" /> </p>
 
-- 🔭 Currently working on [DSA](https://github.com/prince-kb/All)
+- 🔭 Currently working on [DSA](https://github.com/prince-kb/All) and NextJS Projects.
 
-- 🌱 Currently learning **DSA, C++, Python , HTML CSS JS, React, Next**
+- 🌱 Currently learning **DSA, C++ , HTML CSS JS, React, Next**
   
 - 👯 Looking to collaborate on **Development projects**
 
-- 🤝 I’m looking for help with **similar developers working on react and next projects**
+- 🤝 I’m looking for help with **similar developers working NextJS projects**
 
-- 🌱 Extras- Have basics of **Adobe Premiere Pro and Adobe Photoshop**
+- 🌱 Extras- Basics of **Adobe Premiere Pro and Adobe Photoshop**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prince-kb/All](https://github.com/prince-kb)
 
